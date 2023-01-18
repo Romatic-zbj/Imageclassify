@@ -1,1 +1,1 @@
-# Imageclassify
+# This is the simple implemention of classification of image. In this project, both machine learn and deep learn are tried. We submit it on Kaggle, and the best accuracy of machine learning is about 94%, and the deep learning is 94.19%
